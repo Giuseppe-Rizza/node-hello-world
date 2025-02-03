@@ -1,0 +1,25 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "node-hello-world",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "watch": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giuseppe-Rizza/node-hello-world.git"
+  },
+  "author": "Giuseppe Rizza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giuseppe-Rizza/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/Giuseppe-Rizza/node-hello-world#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}

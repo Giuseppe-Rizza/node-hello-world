@@ -8,6 +8,6 @@ node-hello-world
 
 > 3. Impostiamo ora uno script “start” in package.json e facciamo in modo di lanciare il nostro script con npm run start
 
-> 4. Impostiamo un nuovo script “watch” in package.json che possa essere lanciato con npm run watch e che aggiorni in tempo reale le modifiche ai nostri file. Lanciamolo e proviamo a cambiare il nostro codice in modo che stampi nel terminale “Hello Boolean”. Dovremmo vedere il terminale senza fermare e rilanciare il server.Bonus
+> 4. Impostiamo un nuovo script “watch” in package.json che possa essere lanciato con npm run watch e che aggiorni in tempo reale le modifiche ai nostri file. Lanciamolo e proviamo a cambiare il nostro codice in modo che stampi nel terminale “Hello Boolean”. Dovremmo vedere il terminale senza fermare e rilanciare il server.
 
 > 5. (BONUS) Proviamo a installare un pacchetto, (tipo chalk) proviamo ad utilizzarlo e aggiungere la cartella dei moduli scaricati in .gitignore
